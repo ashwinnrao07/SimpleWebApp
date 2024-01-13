@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Lakshman Traders</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">FROM ASHWIN</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Hi ANUSHA, Please bring Maggi  </h1>   
+         <h1> Hi ANUSHA, Please bring Maggi!!  </h1>   
 	 
 
     </section>    
